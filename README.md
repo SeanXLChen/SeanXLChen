@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXLChen&layout=compact" alt="Top Langs" height="200px">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=SeanXLChen" alt="Anurag's GitHub stats" height="200px">
 </a>
