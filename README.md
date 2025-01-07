@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 #### I'm a BI Developer, Web3 enthusiast, CS student, Vlogger and Great Cook!!
 ---
 - 🔭 I’m currently enrolled in the M.Sc. Computer Science program at Northeastern University 
-- 👯 I’m looking for a full-stack developer or software developer co-op role at Vancouver or remote
-- 🌱 I’m currently learning Web3 & blockchain development
 - ⚡ I love to play badminton and i love to cook.
 - 💻 Website: <a href="https://seanxlchen.github.io/html-portfolio/">seanxlchen.github.io</a>
 - 📫 Email: xiaolaiseanchen@gmail.com
