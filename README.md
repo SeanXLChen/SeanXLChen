@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a BI Developer, Web3 enthusiast, CS student, Vlogger and Great Cook!!
+#### I'm a ML Engineer, AI enthusiast, Tradder and Great Cook!!
 ---
-- 🔭 I’m currently enrolled in the M.Sc. Computer Science program at Northeastern University 
-- ⚡ I love to play badminton and i love to cook.
+- 🔭 I’m currently working as Associate Machine Learning Engineer at Quandri 
 - 💻 Website: <a href="https://seanxlchen.github.io/html-portfolio/">seanxlchen.github.io</a>
 - 📫 Email: xiaolaiseanchen@gmail.com
 
